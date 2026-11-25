@@ -1,5 +1,3 @@
-<h1>biiiiig flash warning (overall, especially after stamps)</h1>
-
 ## userboxes
 <p> 
   <img src="https://64.media.tumblr.com/e0eb1b58c722d3c93c3e3b58825d5c2c/3b15e428c991add0-e7/s1280x1920/4d23fc5a85cc1d5eaa324d027f83950380453fee.png" width="300">
